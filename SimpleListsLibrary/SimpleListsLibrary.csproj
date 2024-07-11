@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk"> 
+  <PropertyGroup> 
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>4981.ListImplementation</PackageId> 
+    <Version>1.1</Version> 
+    <Description> 
+      A Simple Implementation of Lists for Kata 21: SimpleLists 
+    </Description> 
+   <PackageProjectUrl>https://github.com/Evvren</PackageProjectUrl> 
+    <RepositoryUrl>https://github.com/Evvren/Kata-21-Simple-Lists</RepositoryUrl> 
+    <Authors>Julio guerrero</Authors> 
+    <Copyright>Copyright (c) Julio Guerrero</Copyright> 
+    <PackageTags>Lists, Kata</PackageTags> 
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance> 
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild> 
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup> 
+</Project>

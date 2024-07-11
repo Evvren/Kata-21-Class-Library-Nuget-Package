@@ -1,0 +1,11 @@
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\bin\Debug\net8.0\SimpleListsLibrary.deps.json
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\bin\Debug\net8.0\SimpleListsLibrary.dll
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\bin\Debug\net8.0\SimpleListsLibrary.pdb
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\obj\Debug\net8.0\SimpleListsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\obj\Debug\net8.0\SimpleListsLibrary.AssemblyInfoInputs.cache
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\obj\Debug\net8.0\SimpleListsLibrary.AssemblyInfo.cs
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\obj\Debug\net8.0\SimpleListsLibrary.csproj.CoreCompileInputs.cache
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\obj\Debug\net8.0\SimpleListsLibrary.dll
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\obj\Debug\net8.0\refint\SimpleListsLibrary.dll
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\obj\Debug\net8.0\SimpleListsLibrary.pdb
+C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\obj\Debug\net8.0\ref\SimpleListsLibrary.dll

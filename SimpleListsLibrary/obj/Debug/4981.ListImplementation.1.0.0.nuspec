@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>4981.ListImplementation</id>
+    <version>1.0.0</version>
+    <authors>Julio guerrero</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/Evvren</projectUrl>
+    <description>A Simple Implementation of Lists for Kata 21: SimpleLists</description>
+    <copyright>Copyright (c) Julio Guerrero</copyright>
+    <tags>Lists, Kata</tags>
+    <repository type="git" url="https://github.com/Evvren/Kata-21-Simple-Lists" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Repos\SimpleListKataClassLibrary\SimpleListsLibrary\bin\Debug\net8.0\SimpleListsLibrary.dll" target="lib\net8.0\SimpleListsLibrary.dll" />
+  </files>
+</package>
